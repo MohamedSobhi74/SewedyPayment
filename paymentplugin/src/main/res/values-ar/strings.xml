@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Payment Plugin</string>
+    <string name="checkout">دفع</string>
+    <string name="holder_name">الاٍسم</string>
+    <string name="holder_name_optional">الاٍسم ( اٍختياري )</string>
+    <string name="card_num">رقم البطاقة</string>
+    <string name="month">الشهر</string>
+    <string name="year">السنة</string>
+    <string name="expiry_date">تاريخ الانتهاء</string>
+    <string name="pay1">اٍدفع</string>
+    <string name="amount">المبلغ</string>
+    <string name="please_enter_card_num">من فضلك ادخل رقم كارت صحيح</string>
+    <string name="please_enter_amount">من فضلك ادخل المبلغ</string>
+    <string name="please_enter_expiry_month">من فضلك ادخل الشهر</string>
+    <string name="please_enter_expiry_year">من فضلك ادخل السنه</string>
+    <string name="please_enter_security_code">من فضلك ادخل CVV</string>
+    <string name="ok">حسنا</string>
+    <string name="transaction_success_msg">تمت العملية بنجاح</string>
+    <string name="success">عملية ناجحة</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Payment Plugin</string>
+    <string name="checkout">Checkout</string>
+    <string name="holder_name">Holder Name</string>
+    <string name="holder_name_optional">Holder Name (Optional)</string>
+    <string name="card_num">Card Number</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvv" translatable="false">CVV</string>
+    <string name="pay1">Pay</string>
+    <string name="amount">Amount</string>
+    <string name="please_enter_card_num">Please enter valid card number</string>
+    <string name="please_enter_amount">please enter amount</string>
+    <string name="please_enter_expiry_month">please enter expiry month</string>
+    <string name="please_enter_expiry_year">please enter expiry year</string>
+    <string name="please_enter_security_code">please entersecurity code</string>
+    <string name="ok">OK</string>
+    <string name="transaction_success_msg">Your transaction has been successfully processed</string>
+    <string name="success">Success</string>
+</resources>
